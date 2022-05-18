@@ -1,11 +1,4 @@
 
-function trron(){
-	document.getElementById('imageonoof').src='lightbulb2.png';
-    console.log('ooo');
-}
-function trroof(){
-	document.getElementById('imageonoof').src='lightbulb.png';
-}
 
 
 
